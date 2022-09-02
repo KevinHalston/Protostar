@@ -1,10 +1,11 @@
-# Stack 0
+# Stack 1
 
-# ![image](https://user-images.githubusercontent.com/91616280/188239021-ae30430b-b5bf-4cb0-ac2e-550f12756107.png)
+# ![image](https://user-images.githubusercontent.com/91616280/188239910-bd016346-7ac8-4d58-a170-ffa543be2257.png)
 
 # Ý tưởng khai thác
-Ta sẽ truyền vào 1 chuỗi > số kí tự mà chuỗi buffer được nhập để khi đẩy lên stack thì modified sẽ nhận giá trị mới khác 0
+Như stack0 chúng ta sẽ truyền vào 1 chuỗi 64 kí tự kèm them giá trị của modified = \x64\x63\x62\x61 vào trong chuỗi đó từ đó có thể thay đổi giá trị của modified.
 
 # Kịch bản khai thác
 
-# ![image](https://user-images.githubusercontent.com/91616280/188239062-965d13b3-8029-4d0d-afbc-de8677dc4593.png)
+# ![image](https://user-images.githubusercontent.com/91616280/188239943-59378c4f-919d-4260-8484-978ca6d5f2ae.png)
+
