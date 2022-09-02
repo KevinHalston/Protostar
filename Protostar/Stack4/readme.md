@@ -24,9 +24,9 @@ Ta sẽ truyền vào 1 chuỗi > số kí tự mà chuỗi buffer được nh�
 # Kịch bản khai thác
 
 - Bước 1: chúng ta sẽ leak địa chỉ hàm win bằng gdb.
- 
+ ```
  ![image](https://user-images.githubusercontent.com/91616280/188239062-965d13b3-8029-4d0d-afbc-de8677dc4593.png)
-
+```
 - Bước 2: tạo payload để tìm ra số byte ở thanh ghi ebp cũ cần ghi đè
 
 ![image](https://user-images.githubusercontent.com/91616280/188245874-6bbb687c-2e42-435f-9ba4-4f35c9015927.png)
