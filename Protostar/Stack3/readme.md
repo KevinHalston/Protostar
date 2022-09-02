@@ -8,3 +8,5 @@ Nhìn vào đoạn code có thể thấy rằng khi đẩy lên stack ta sẽ nh
 # Kịch bản khai thác
 
 - Bước 1: chúng ta sẽ leak địa chỉ hàm win bằng gdb.
+
+- ![image](https://user-images.githubusercontent.com/91616280/188245479-001f68c1-0068-43dd-bdf0-3d60103c4c86.png)
