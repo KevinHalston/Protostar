@@ -14,5 +14,5 @@ Nhìn vào đoạn code có thể thấy rằng khi đẩy lên stack ta sẽ nh
 - Bước 2: chúng ta thực hiện viết payload để truyền chuỗi cần ghi vào.
 
  ![image](https://user-images.githubusercontent.com/91616280/188245504-fe5416b3-ae74-4186-9a62-9c46faa11c54.png)
- ![image](https://user-images.githubusercontent.com/91616280/188245536-7ccab220-19fd-4a74-a11a-02da779d86c0.png)
+![image](https://user-images.githubusercontent.com/91616280/188245545-34e1c622-2869-4ef3-b5df-2fe1d2e155e2.png)
 
