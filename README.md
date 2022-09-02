@@ -33,7 +33,11 @@
         </tr>
         <tr>
             <td markdown="span"><a href="Protostar/Stack6">Stack 6</a></td>
-            <td markdown="span">Solved</td>
+            <td markdown="span">UnSolved</td>
+        </tr>
+        <tr>
+            <td markdown="span"><a href="Protostar/Stack7">Stack 7</a></td>
+            <td markdown="span">UnSolved</td>
         </tr>
     </tbody>
 </table>
