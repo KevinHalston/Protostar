@@ -31,6 +31,5 @@
             <td markdown="span"><a href="Protostar/Stack5">Stack 5</a></td>
             <td markdown="span">Solved</td>
         </tr>
-
     </tbody>
 </table>
